@@ -1,10 +1,10 @@
 # customjs-example 💻
 Here you can copy from me and get an example of what custom js is ( Custom js example: bacon(); )
 # Instructions
-Choice 1
+Choice 1:
 You can change the variables to whatever you want and you can also
 change the console.log message: edit inside this '' do not change 
-any other code, After that you can put in varname(); and the varname
+any other code ("Choice 1: Part 2"), After that you can put in varname(); and the varname
 will be the name of the variable that you made then after that run the file
 and you will be able to make your own custom js (This is only an example)
 -----------------------------------------------------------------------------------------------------------------------------------------
