@@ -12,4 +12,4 @@ Choice 1 : Part 2
 You can edit inside the { and }; and put in any custom js code you want
 then it will run if you have the js code right.
 ------------------------------------------------------------------------------------------------------------------------------------------
-Remove the +'s
+
